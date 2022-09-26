@@ -1,0 +1,2 @@
+debian@beaglebone:~/cpe422$ echo $PATH
+/home/debian/bin:/home/debian/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games:/home/debian/cpe422/
